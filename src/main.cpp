@@ -1,6 +1,6 @@
 //This is the main entry point for the application
 #include "../include/budget.h"
-
+// for testing purposes
 int main()
 {
     Budget test =  Budget(100, "test");

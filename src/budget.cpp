@@ -1,5 +1,5 @@
 #include"../include/budget.h"
-
+// for testing purposes, feel free to make changes
 Budget::Budget(double amount, std::string name)
 {
     this->amount = amount;
